@@ -1,9 +1,6 @@
 Arkanoid
 ==================
 
-
-## Overview
-
 Arcade game implemented using [C](http://www.open-std.org/jtc1/sc22/wg14/), [NASM](http://www.nasm.us/), [DJGPP](http://www.delorie.com/djgpp/) and [DPMI](http://www.delorie.com/djgpp/doc/dpmi/) in Windows 98.
 
 
